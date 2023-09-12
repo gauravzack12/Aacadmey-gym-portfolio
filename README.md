@@ -27,5 +27,5 @@ to see the project [click me]()
 <!-- CONTACT -->
 ## Contact
 
-Eniola Ademola - [@tweet me](https://twitter.com/) - it.eniolaademola@gmail.com
+Eniola Ademola - [@tweet me](https://twitter.com/) - gauravzack@gmail.com
 
